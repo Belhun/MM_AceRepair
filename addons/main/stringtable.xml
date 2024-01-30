@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="MM">
+    <Package name="Main">
+        <Key ID="STR_MM_Main_URL">
+            <English>https://github.com/MM-Repair/MM</English>
+        </Key>
+    </Package>
+</Project>

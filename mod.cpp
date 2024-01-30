@@ -1,0 +1,14 @@
+name = "MM - Repair";
+dir = "@MM_aceRepair";
+picture = "KAMLogoHighRes.paa";
+actionName = "Github";
+action = "https://github.com/Tomcat-SG/KAM";
+logo = "KAMLogoLowRes.paa";
+logoOver = "KAMLogoLowRes.paa";
+tooltip = "MM Repair";
+tooltipOwned = "MM Repair";
+overview = "Medical Menu but for Repair";
+author = "ARMCO team";
+overviewPicture = "KAMLogoLowRes.paa";
+overviewText = "MM Repair";
+overviewFootnote = "";
