@@ -135,7 +135,6 @@
 #define VAR_IN_PAIN           QACEGVAR(medical,inPain)
 #define VAR_TOURNIQUET        QACEGVAR(medical,tourniquets)
 #define VAR_FRACTURES         QACEGVAR(medical,fractures)
-#define DEFAULT_TOURNIQUET_VALUES   [0,0,0,0,0,0]
 
 // - Unit Functions ---------------------------------------------------
 // Retrieval macros for common unit values

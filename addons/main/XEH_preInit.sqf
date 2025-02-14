@@ -6,7 +6,7 @@ PREP_RECOMPILE_START;
 #include "XEH_PREP.hpp"
 PREP_RECOMPILE_END;
 
-#define CBA_SETTINGS_CAT "MM - ADV Medical: Misc"
+#define CBA_SETTINGS_CAT "MM - ADV Repair: Main"
 
 // //Enable aceExposure things
 // [
